@@ -26,11 +26,3 @@ function App() {
 }
 
 export default App;
-
-echo "# Portifolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aakashkatta/Portifolio.git
-git push -u origin main
